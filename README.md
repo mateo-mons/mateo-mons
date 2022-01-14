@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mateo-mons
+- 👀 I’m interested in code and develop projects
+- 🌱 I’m currently learning technologies front end
+- 🔍 I’m looking to collaborate on projects for companies and refine skills
